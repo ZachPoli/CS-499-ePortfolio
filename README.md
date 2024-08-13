@@ -1,7 +1,7 @@
 # CS-499-ePortfolio
 
 # Self Assessment
-During my time in this course, I've learned how to better implement SQL databases into code.
+(https://zachpoli.github.io/CS-499-ePortfolio/)
 
 
 
