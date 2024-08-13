@@ -3,6 +3,11 @@
 # Self Assessment
 (https://zachpoli.github.io/CS-499-ePortfolio/)
 
+# Grocery Tracker Program Narritive
+https://github.com/ZachPoli/CS-499-ePortfolio/blob/main/Narrative%20for%20Grocery%20Tracker%20Application.docx
+
+# Weekly Pay Program Narritive
+
 
 
 
