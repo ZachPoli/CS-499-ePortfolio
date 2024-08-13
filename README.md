@@ -7,7 +7,7 @@
 https://github.com/ZachPoli/CS-499-ePortfolio/blob/main/Narrative%20for%20Grocery%20Tracker%20Application.docx
 
 # Weekly Pay Program Narritive
-
+https://github.com/ZachPoli/CS-499-ePortfolio/blob/main/Narrative%20for%20the%20Weekly%20Pay%20Calculator%20Application.docx
 
 
 
@@ -31,3 +31,5 @@ https://www.youtube.com/watch?v=J6r8MmFbYDA&t=21s
 
 # Original Applications
 https://github.com/ZachPoli/CS-499-ePortfolio/blob/main/Total%20Daily%20Pay%20Calculator%20(school).xlsx
+
+
