@@ -9,6 +9,16 @@ https://github.com/ZachPoli/CS-499-ePortfolio/blob/main/Narrative%20for%20Grocer
 # Weekly Pay Program Narritive
 https://github.com/ZachPoli/CS-499-ePortfolio/blob/main/Narrative%20for%20the%20Weekly%20Pay%20Calculator%20Application.docx
 
+# Code Review
+https://www.youtube.com/watch?v=J6r8MmFbYDA&t=21s
+
+# New Pay Tracker Application
+https://github.com/ZachPoli/CS-499-ePortfolio/blob/main/HoursWorked.zip
+
+# Original Applications
+https://github.com/ZachPoli/CS-499-ePortfolio/blob/main/Total%20Daily%20Pay%20Calculator%20(school).xlsx
+
+https://github.com/ZachPoli/CS-499-ePortfolio/blob/main/CS210-Repository-main.zip
 
 
 # Grocery Tracker boot instructions
@@ -23,13 +33,3 @@ https://github.com/ZachPoli/CS-499-ePortfolio/blob/main/Narrative%20for%20the%20
 5.)  Username: "SNHU"
 
 6.) Password: "SNHU"
-
-
-Here's the youtube video where I brainstromed the ideas for program enhancements. 
-
-https://www.youtube.com/watch?v=J6r8MmFbYDA&t=21s
-
-# Original Applications
-https://github.com/ZachPoli/CS-499-ePortfolio/blob/main/Total%20Daily%20Pay%20Calculator%20(school).xlsx
-
-
