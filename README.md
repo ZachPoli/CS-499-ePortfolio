@@ -1,7 +1,12 @@
 # CS-499-ePortfolio
-An Eportfolio demonstrating the skills I have learned during my time at school
+
+# Self Assessment
+During my time in this course, I've learned how to better implement SQL databases into code.
 
 
+
+
+# Grocery Tracker boot instructions
 1.) Extract the contents of the folder
 
 2.) Navigate to .../CS-499 Grocery Tracker App/CS210 Project 3/x64/Debug
@@ -18,3 +23,6 @@ An Eportfolio demonstrating the skills I have learned during my time at school
 Here's the youtube video where I brainstromed the ideas for program enhancements. 
 
 https://www.youtube.com/watch?v=J6r8MmFbYDA&t=21s
+
+# Original Applications
+https://github.com/ZachPoli/CS-499-ePortfolio/blob/main/Total%20Daily%20Pay%20Calculator%20(school).xlsx
